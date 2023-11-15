@@ -18,3 +18,6 @@ var z = y;
 y = x;
 x = z;
 console.log('Resultado ejercicio: x es', x, 'y es', y);
+// deestructuring (permite intercambiar los valores de dos variables)
+[x, y] = [y, x];
+console.log('Resultado ejercicio: x es', x, 'y es', y);
