@@ -1,0 +1,22 @@
+{
+  "name": "npmandlibraries",
+  "version": "1.0.0",
+  "description": "Bloque 3 del curso de JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzgimnzjavier/Learning-JS.git"
+  },
+  "author": "Javier",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzgimnzjavier/Learning-JS/issues"
+  },
+  "homepage": "https://github.com/gonzgimnzjavier/Learning-JS#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
+}
